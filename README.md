@@ -1,8 +1,9 @@
 ## About Me
 
-Hi, I'm Janvi 👋 
+Hi, I'm Janvi the Explorer 👋 
 
-- I'm a data scientist with over 7 years of experience in healthcare-adjacent industries, and an avid solo traveler with over 5 years of experience.
+- I'm a data scientist with over 7 years of experience in healthcare-adjacent industries, and an avid solo traveler with over 5 years of experience. 
+- Venturing out into the unknown (messy data, uncharted territories, etc) happens to be my thing. Hence, "the Explorer"
 - I'm currently searching for my next full-time gig. Feel free to reach out via [Linkedin](https://www.linkedin.com/in/jnerurkar/) if you'd like to connect!
 - I'm hoping to revive my neglected GitHub profile with a series of projects in the near future. Stay tuned!
 
